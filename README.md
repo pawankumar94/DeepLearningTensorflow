@@ -1,2 +1,8 @@
 # DeepLearningTensorflow
-This repository consists  implimentation  of various Deep learning architectures studied during the course offered by Otto-Von-Guericke University titled as 'Introduction to Deeplearning' , all the tasks are performed using Tensorflow platform.  
+
+*This Repository conisists implimentation of following Deep Learning Architectures using **Tensorflow Platforrm***
+- Convolutional Neural Network
+- Dense Networks
+- Recurrent Neural Network 
+- Auto Encoder 
+- Various other Implimentation on Validating data through tensor board 
